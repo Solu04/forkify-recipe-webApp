@@ -8,7 +8,7 @@ This was the final and biggest Project of Jonas Schmedtmann Complete Javascript 
 
 ## Check live website
 
-Checkout the live website and search for different type of recipes (e.g pizza, avocado, chicken etc.)
-Website is not responsive <br />
+<p>Checkout the live website and search for different type of recipes (e.g pizza, avocado, chicken etc.)</p>
+<p>Website is not responsive </p>
 
 https://forkify-solu.netlify.app/
